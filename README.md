@@ -3,7 +3,7 @@
 - I'm [**Iara Diamela Rodriguez**](https://www.researchgate.net/profile/Iara-Rodriguez-2) (she/her), Biologist & Ph.D. student at Universidad Nacional de General Sarmiento, Buenos Aires, Argentina .
 - I belong to Ecology and Complex Systems research group or [ECOmplex lab](http://twitter.com/ecomplex_lab), like we like to call it.
 - I'm interested 
-- You can reach me at <irodriguez@campus.ungs.edu.ar> or on <a href="http://twitter.com/123iamela" target="_blank">Twitter</a>
+- You can reach me at <irodriguez@campus.ungs.edu.ar> or on [Twitter](http://twitter.com/123iamela)
 
 #### :woman_technologist: Languages and tools:
 <p>
