@@ -5,7 +5,7 @@
 - I'm interested 
 - You can reach me at <irodriguez@campus.ungs.edu.ar> or on <a href="http://twitter.com/123iamela" target="_blank">Twitter</a>
 
-#### languages and tools:
+#### :woman_technologist: Languages and tools:
 <p>
    <img alt="MySQL" src="https://img.shields.io/badge/-MySQ-003B57?style=flat-square&logo=MySQL&logoColor=white" />
    <img alt="Phyton" src="https://img.shields.io/badge/-Phyton-3776AB?style=flat-square&logo=phyton&logoColor=white" />
