@@ -1,4 +1,4 @@
-### hi
+###  :sparkles: Hi there & welcome :sparkles:
 
 - I'm <a href="https://www.researchgate.net/profile/Iara-Rodriguez-2" target="_blank">Iara Diamela Rodriguez</a> (she/her), Biologist & Ph.D. student at Universidad Nacional de General Sarmiento, Buenos Aires, Argentina .
 - I belong to Ecology and Complex Systems research group or [ECOmplex lab](http://twitter.com/ecomplex_lab), like we like to call it.
