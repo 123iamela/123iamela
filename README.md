@@ -6,7 +6,7 @@ I belong to the Ecology and Complex Systems research group, or [ECOmplex lab](ht
 - I aim to disentangle some of the complexity of species interaction networks (like food webs), specially in high latitude marine ecosystems (Antarctic and sub-Antarctic).
 I apply ecological modelling tools to study the effects of climate change and anthropogenic disturbs in this communities.
 
-- You can reach me at <irodriguez@campus.ungs.edu.ar> or on [Twitter](http://twitter.com/123iamela)
+- You can reach me at <iaradiamelar@gmail.com> or on [Twitter](http://twitter.com/123iamela)
 
 #### Languages and tools:
 <p>
