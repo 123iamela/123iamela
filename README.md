@@ -1,9 +1,8 @@
 ###  :sparkles: Hi there & welcome :sparkles:
 
-- I'm [**Iara Diamela Rodriguez**](https://www.researchgate.net/profile/Iara-Rodriguez-2) (she/her), Biologist & Ph.D. student at Universidad Nacional de General Sarmiento (UNGS), Buenos Aires, Argentina.
-I belong to the Ecology and Complex Systems research group, or [ECOmplex lab](http://twitter.com/ecomplex_lab), like we like to call it.
+- I'm [**Iara Diamela Rodriguez**](https://www.researchgate.net/profile/Iara-Rodriguez-2) (she/her), Biologist & Doctor in Science and Technology, working as a Posdoctoral Researcher at University of Helsinki, Finland.
 
-- I aim to disentangle some of the complexity of species interaction networks (like food webs), specially in high latitude marine ecosystems (Antarctic and sub-Antarctic).
+- I aim to disentangle some of the complexity of species interaction networks (like food webs), specially in high latitude marine ecosystems (Antarctic, sub-Antarctic, Arctic).
 I apply ecological modelling tools to study the effects of climate change and anthropogenic disturbs in this communities.
 
 - You can reach me at <iaradiamelar@gmail.com> or on [Twitter](http://twitter.com/123iamela)
